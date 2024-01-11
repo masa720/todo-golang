@@ -1,3 +1,4 @@
 2024/01/06 15:36:36 main.go:15: test
 2024/01/10 22:43:32 users.go:32: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
 2024/01/11 13:52:44 users.go:64: no such table: user
+2024/01/11 13:59:49 users.go:64: no such table: user
